@@ -1,9 +1,9 @@
 name: qr_scanner_plus
 description: Qr scanner plus
-version: 0.2.0+2
+version: 0.2.0+3
 repository: https://github.com/fast-flutter/qr_scanner_plus
 issue_tracker: https://github.com/fast-flutter/qr_scanner_plus/issues
-homepage: https://www.lookingpet.com
+# homepage: https://www.lookingpet.com
 # publish_to: "none" # Remove this line if you wish to publish to pub.dev
 
 environment:
